@@ -123,6 +123,10 @@ Each run creates a directory with:
 
 EyeofHorus degrades gracefully. Without a GitNexus index, Phase 2 falls back to manual file scanning (essentially autoresearch:debug). The tool still works, but without graph intelligence. You lose execution flow tracing, blast radius scoring, and pattern matching across the graph.
 
+## Related tools
+
+- [system-audit](https://github.com/cogpros/system-audit). Inventory and health audit for agent stacks. Uses the same GitNexus index. Map the system with one, hunt bugs in it with the other.
+
 ## License
 
 MIT
