@@ -1,0 +1,6 @@
+eyeofhorus/
+.DS_Store
+
+# run outputs live in ~/1HUGR/eyeofhorus/, never in the package
+26*-*/
+eyeofhorus/
